@@ -4,10 +4,8 @@
 
 ### Group members
 | Student name | Student ID |
-| --- | --- |
-| #NAME# | #ID# |
-| #NAME# | #ID# |
-| #NAME# | #ID# |
+| #VALDEMAR KAAE SCHULTZ# | 153850 |
+| #MARKUS KRARUP# | 153063 |
 
 ***
 
